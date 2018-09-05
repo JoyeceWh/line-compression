@@ -1,0 +1,2 @@
+# line-compression
+DPCM-EG
